@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) / [Patika.dev](www.patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet Readme dosyası ve proje dosyalarını barındırıyor.
 
-![Project Image](https://imgur.com/VEhZGPQ)
+![Project Image](https://i.imgur.com/VEhZGPQ_d.webp?maxwidth=1520&fidelity=grand)
 
 ## Installation
 Öncelikle projeci clonelayın.
